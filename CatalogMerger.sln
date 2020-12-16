@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogMerger", "CatalogMerger\CatalogMerger.csproj", "{2ABF5A3F-1827-4E4A-BB7F-26D45A5B8191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{D8140F94-941C-4CF7-81AF-DD6F98D71AAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{ADDDB087-DDF8-499D-883C-4CAC4AFEDB22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ABF5A3F-1827-4E4A-BB7F-26D45A5B8191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABF5A3F-1827-4E4A-BB7F-26D45A5B8191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ABF5A3F-1827-4E4A-BB7F-26D45A5B8191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ABF5A3F-1827-4E4A-BB7F-26D45A5B8191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8140F94-941C-4CF7-81AF-DD6F98D71AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8140F94-941C-4CF7-81AF-DD6F98D71AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8140F94-941C-4CF7-81AF-DD6F98D71AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8140F94-941C-4CF7-81AF-DD6F98D71AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDDB087-DDF8-499D-883C-4CAC4AFEDB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDDB087-DDF8-499D-883C-4CAC4AFEDB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDDB087-DDF8-499D-883C-4CAC4AFEDB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDDB087-DDF8-499D-883C-4CAC4AFEDB22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A492CE96-40F7-43FA-95A6-74A60117AA74}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zRXWU4XmEFdyt5lBfHR0HvIQ1/kl/h28StZ06IECou6SGiUPWh9wjr7Xy2nspiUNrD08lcX4n/wnt7tNSUK8PA==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\Test\\CatalogMerger\\CatalogMerger\\CatalogMerger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\csvhelper\\18.0.0\\csvhelper.18.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
